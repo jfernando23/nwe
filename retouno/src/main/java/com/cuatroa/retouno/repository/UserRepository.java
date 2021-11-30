@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author desarrolloextremo
+ * @author jefer
  */
 @Repository
 public class UserRepository {
